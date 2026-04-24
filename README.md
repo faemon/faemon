@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%7C+Java+%7C+Go;Frontend+%7C+React+%7C+Vue;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Go+%7C+React+%7C+Vue;Backend+Architecture+to+Frontend+Experience" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,15 +34,15 @@
   <img src="https://github.githubassets.com/images/modules/profile/profile-achievements/empty-shelf.png" width="50" />
 </div>
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable backend systems and creating engaging frontend experiences. I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate **Full-Stack Developer** focused on connecting backend architecture, frontend experience, and delivery workflows into one reliable product loop. I enjoy turning product ideas into scalable services, intuitive interfaces, and maintainable engineering solutions.
 
-- 🔭 I'm currently working on **microservices architecture** and **distributed systems**
-- 🌱 I'm currently learning **Kubernetes**, **gRPC**, and **Advanced React patterns**
-- 👯 I'm looking to collaborate on **open source Java/Go projects**
+- 🔭 I'm currently building **end-to-end product features**, from **Java/Go services** to **React/Vue interfaces**
+- 🌱 I'm currently learning **Kubernetes**, **gRPC**, and **distributed system design**
+- 👯 I'm looking to collaborate on **full-stack products** and **open source Java/Go projects**
 - 🤝 I'm open to **job opportunities** and **freelance projects**
-- 💬 Ask me about **Java, Go, Spring Boot, React, System Design**
+- 💬 Ask me about **Java, Go, Spring Boot, React, API design, and System Design**
 - 📫 How to reach me: **faemon@github.com**
-- ⚡ Fun fact: **I love clean code, coffee, and contributing to open source**
+- ⚡ Fun fact: **I enjoy connecting product ideas, backend systems, and frontend experiences into one smooth delivery flow**
 
 ---
 
@@ -108,4 +108,3 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable ba
 
 
 ---
-
